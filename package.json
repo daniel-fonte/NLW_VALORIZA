@@ -4,7 +4,8 @@
   "description": "Project based on NLW TOGETHER",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node-dev src/server.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,11 @@
   },
   "homepage": "https://github.com/daniel-fonte/NLW_VALORIZA#readme",
   "devDependencies": {
+    "@types/express": "^4.17.12",
+    "ts-node-dev": "^1.1.6",
     "typescript": "^4.3.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
   }
 }
