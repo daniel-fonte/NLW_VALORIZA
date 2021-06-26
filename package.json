@@ -1,0 +1,19 @@
+{
+  "name": "nlwvaloriza",
+  "version": "1.0.0",
+  "description": "Project based on NLW TOGETHER",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniel-fonte/NLW_VALORIZA.git"
+  },
+  "author": "Daniel Nunes da Fonte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daniel-fonte/NLW_VALORIZA/issues"
+  },
+  "homepage": "https://github.com/daniel-fonte/NLW_VALORIZA#readme"
+}
