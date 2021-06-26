@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/daniel-fonte/NLW_VALORIZA/issues"
   },
-  "homepage": "https://github.com/daniel-fonte/NLW_VALORIZA#readme"
+  "homepage": "https://github.com/daniel-fonte/NLW_VALORIZA#readme",
+  "devDependencies": {
+    "typescript": "^4.3.4"
+  }
 }
